@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hilyary</title>
+  
+  <subtitle>hilyary</subtitle>
+  <link href="https://hilyary.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://hilyary.github.io/"/>
+  <updated>2025-05-22T11:18:40.011Z</updated>
+  <id>https://hilyary.github.io/</id>
+  
+  <author>
+    <name>hilyary</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PENTESTER-LAB-XSS-AND-MYSQL-FILE</title>
+    <link href="https://hilyary.github.io/2023/04/04/pentester-lab-xss-and-mysql-file/"/>
+    <id>https://hilyary.github.io/2023/04/04/pentester-lab-xss-and-mysql-file/</id>
+    <published>2023-04-04T10:28:23.000Z</published>
+    <updated>2025-05-22T11:18:40.011Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;vulnhub靶场之XSS-AND-MYSQL-FILE&quot;&gt;&lt;a href=&quot;#vulnhub靶场之XSS-AND-MYSQL-FILE&quot; class=&quot;headerlink&quot; title=&quot;vulnhub靶场之XSS AND MYSQL</summary>
+        
+      
+    
+    
+    
+    
+    <category term="XSS" scheme="https://hilyary.github.io/tags/XSS/"/>
+    
+  </entry>
+  
+</feed>
