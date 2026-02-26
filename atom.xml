@@ -6,7 +6,7 @@
   <link href="https://hilyary.github.io/atom.xml" rel="self"/>
   
   <link href="https://hilyary.github.io/"/>
-  <updated>2025-05-23T08:43:25.313Z</updated>
+  <updated>2026-02-26T06:17:18.776Z</updated>
   <id>https://hilyary.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>析镜 LensAnalysis - 专业内存取证分析工具</title>
+    <link href="https://hilyary.github.io/2026/02/26/xi-jing-lensanalysis-nei-cun-qu-zheng-fen-xi-gong-ju/"/>
+    <id>https://hilyary.github.io/2026/02/26/xi-jing-lensanalysis-nei-cun-qu-zheng-fen-xi-gong-ju/</id>
+    <published>2026-02-26T04:00:00.000Z</published>
+    <updated>2026-02-26T06:17:18.776Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;今天给大家介绍一款专业的内存取证分析工具——&lt;strong&gt;析镜 LensAnalysis&lt;/strong&gt;，它基于 Volatility 3 框架开发，为安全研究人员、CTF 爱好者和应急响应人员提供强大的内存镜像分析能力。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.shields.io/badge/Windows-10%2F11-blue&quot; alt=&quot;Windows&quot;&gt; &lt;img src=&quot;https://img.shields.io/badge/macOS-12%2B-blue&quot; alt=&quot;macOS&quot;&gt; &lt;img src=&quot;https://img.shields.io/badge/License-Proprietary-red&quot; alt=&quot;License&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="安全工具" scheme="https://hilyary.github.io/categories/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="内存取证" scheme="https://hilyary.github.io/tags/%E5%86%85%E5%AD%98%E5%8F%96%E8%AF%81/"/>
+    
+    <category term="安全工具" scheme="https://hilyary.github.io/tags/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Volatility" scheme="https://hilyary.github.io/tags/Volatility/"/>
+    
+    <category term="CTF" scheme="https://hilyary.github.io/tags/CTF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>vulnhub靶场之XSS AND MYSQL FILE</title>
     <link href="https://hilyary.github.io/2023/04/04/pentester-lab-xss-and-mysql-file/"/>
     <id>https://hilyary.github.io/2023/04/04/pentester-lab-xss-and-mysql-file/</id>
     <published>2023-04-04T10:28:23.000Z</published>
-    <updated>2025-05-23T08:43:25.313Z</updated>
+    <updated>2025-05-23T08:43:26.000Z</updated>
     
     
       
